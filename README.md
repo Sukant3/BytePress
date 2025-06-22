@@ -26,17 +26,24 @@ ____________________________
 - 📦 **HTTP Client**: Axios
 - 🔁 **Routing**: React Router DOM
 - 🎨 **Styling**: Bootstrap & Custom CSS
+ ___________
 
-  ___________
-  📈 Performance Highlight
+## 📈 Performance Highlight
+
 Reduced page load time by 20% using optimized Axios requests and infinite scroll logic.
 
 Clean UI with category-based filtering improves content discoverability.
+_____________________________________
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
+
 Thanks to NewsAPI for providing the news data.
 Inspired by modern news platforms with a clean and user-first design approach.
+______________________________________
 
+🔥 Contribution
+
+Feel free to contribute and Suggestion !
 
 
 
